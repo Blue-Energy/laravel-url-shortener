@@ -9,6 +9,8 @@ Powerful URL shortening tools in Laravel
     <a href="https://packagist.org/packages/laracrafts/laravel-url-shortener"><img src="https://poser.pugx.org/laracrafts/laravel-url-shortener/license"></a>
 </p>
 
+THIS IS A FORK FROM https://github.com/LaraCrafts/laravel-url-shortener
+
 - [Installation](#installation)
     - [Requirements](#requirements)
     - [Laravel 5.5+](#laravel-55)
