@@ -1,5 +1,5 @@
 {
-    "name": "laracrafts/laravel-url-shortener",
+    "name": "blue-energy/laravel-url-shortener",
     "description": "Powerful URL shortening tools in Laravel",
     "keywords": [
         "laravel",
@@ -21,11 +21,15 @@
         {
             "name": "László Görög",
             "email": "contact@nergal.xyz"
+        },
+        {
+            "name": "Luis Sejer",
+            "email": "lo@blueenergy.dk"
         }
     ],
     "require": {
         "php": "^7.1",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^7.0",
         "guzzlehttp/promises": "^1.0",
         "guzzlehttp/psr7": "^1.4",
         "illuminate/support": "^5.1 || ^6.0 || ^7.0",
